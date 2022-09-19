@@ -31,7 +31,7 @@ Welcome to my GitHub!
   
 </p>
 <br/>  
-I am always excited to learn new technologies. While I have used everything from CSS to Serverless, the tech listed above includes some of my strongest areas of expertise (and they had .svg logos available...).
+I am always excited to learn new technologies. While I have used everything from CSS to Serverless, the list above should give you a rough idea of what tech I am most familiar with (and for which there were .svg logos available...)
 
 
 <br>  
