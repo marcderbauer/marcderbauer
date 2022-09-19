@@ -36,4 +36,10 @@ I am always excited to learn new technologies. While I have used everything from
 
 <br>  
 <hr>
- :confetti_ball: End of description... How about a  [coffee](mailto:hello@marcanthonybauer.com?subject=[GitHub]%20coffee)
+ :confetti_ball: End of description... How about a coffee ☕
+<br/><br/>
+     
+
+ [![Coffee]( https://img.shields.io/badge/-Message%20me%20here!-blue)](mailto:hello@marcanthonybauer.com?subject=[GitHub]%20Let's%20have%20Coffee)
+
+
