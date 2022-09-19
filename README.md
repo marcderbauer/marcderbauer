@@ -13,7 +13,7 @@ Welcome to my GitHub!
   - Combining the [Spotify API](https://developer.spotify.com/documentation/web-api/) with lyrics from [Genius](https://genius.com) to explore mental health through music
 <br/>  
 
-#### :computer: Some of the Programming Languages and Technologies: 
+#### :computer: Some Technologies I Use: 
 <p>
   
 <!--  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Mr-maike&show_icons=true&hide_border=true" />-->
