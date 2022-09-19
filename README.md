@@ -1,4 +1,4 @@
-### Hey! I'm Marc-Anthony :wave:
+# Hey! I'm Marc-Anthony :wave:
 
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/marcderbauer)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcanthonybauer/)
@@ -30,9 +30,10 @@ Welcome to my GitHub!
   <br />  
   
 </p>
-
+<br/>  
 I am always excited to learn new technologies. While I have used everything from CSS to Serverless, the tech listed above includes some of my strongest areas of expertise (and they had .svg logos available...).
 
 
-<br/>
-:construction: End of profile... Want to go for a coffee? :construction:
+<br>  
+<hr>
+ :confetti_ball: End of description... How about a coffee? :coffee:
