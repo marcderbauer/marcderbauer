@@ -3,6 +3,8 @@
 [![GitHub](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/marcderbauer)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcanthonybauer/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:hello@marcanthonybauer.com)
+[![CV](https://img.shields.io/badge/-CV-yellow?logo=giphy&logoColor=white)](https://raw.githubusercontent.com/marcderbauer/hugo-twenty-twenty/main/resources/_gen/assets/CV_Marc_Anthony_Bauer.pdf)
+
 
 <br/>  
 Welcome to my GitHub!
