@@ -23,12 +23,14 @@ Welcome to my GitHub!
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+  <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <br />  
   
 </p>
@@ -38,10 +40,10 @@ I am always excited to learn new technologies. While I have used everything from
 
 <br>  
 <hr>
- :confetti_ball: End of description... How about a coffee ☕
+:confetti_ball: End of description... how about some coffee? :confetti_ball:
 <br/><br/>
      
 
- [![Coffee]( https://img.shields.io/badge/-Message%20me%20here!-blue)](mailto:hello@marcanthonybauer.com?subject=[GitHub]%20Let's%20have%20Coffee)
+ [![Coffee]( https://img.shields.io/badge/-Let's%20have%20coffee!%20☕-blue)](mailto:hello@marcanthonybauer.com?subject=[GitHub]%20Let's%20have%20Coffee)
 
 
