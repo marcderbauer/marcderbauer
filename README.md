@@ -10,9 +10,10 @@
 Welcome to my GitHub!
 
 #### 🌱 Things I am currently working on:
-  - Fine-tuning [BLOOM](https://huggingface.co/bigscience/bloom-560m) to generate titles for the [VICE YouTube channel](https://www.youtube.com/user/VICE)
-  - Setting up my own [website](https://www.marcanthonybauer.com) using [Hugo](https://gohugo.io/) and [GitHub Pages](https://pages.github.com/)
-  - Combining the [Spotify API](https://developer.spotify.com/documentation/web-api/) with lyrics from [Genius](https://genius.com) to explore mental health through music
+  - [:link:](https://github.com/marcderbauer/bloom) Fine-tuning [BLOOM](https://huggingface.co/bigscience/bloom-560m) to generate titles for the [VICE YouTube channel](https://www.youtube.com/user/VICE)
+  - [:link:](https://github.com/marcderbauer/hugo-twenty-twenty) Setting up my own [website](https://www.marcanthonybauer.com) using [Hugo](https://gohugo.io/) and [GitHub Pages](https://pages.github.com/)
+  - [:link:](https://github.com/marcderbauer/songcrawler) Combining the [Spotify API](https://developer.spotify.com/documentation/web-api/) with lyrics from [Genius](https://genius.com) to explore mental health through music
+  - [:link:](https://github.com/marcderbauer/terrorism-graph) Creating a knowledge graph with [Interpol's most wanted](https://www.interpol.int/en/How-we-work/Notices) and Wikipedia's [list of designated terrorist groups](https://en.wikipedia.org/wiki/List_of_designated_terrorist_groups)
 <br/>  
 
 #### :computer: Some Technologies I Use: 
